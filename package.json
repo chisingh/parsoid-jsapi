@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "domino": "^1.0.28",
-    "parsoid": "https://github.com/chisingh/parsoid.git#release"
+    "parsoid": "git://github.com/chisingh/parsoid.git#release"
   },
   "devDependencies": {
     "chai": "^3.5.0",
